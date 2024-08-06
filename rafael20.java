@@ -25,7 +25,7 @@ public class rafael20{
       }
       
       System.out.println("Resultado:");
-      System.out.printf("Seu peso ideal � %.2f",pesoIdeal);
+      System.out.printf("Seu peso ideal: %.2f",pesoIdeal);
       System.out.print("kg");
       teclado.close();      
       
